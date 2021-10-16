@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m Interested in ... Python ,Django, Html, css, Javascript, Machine Learning
-- 🌱 I’m currently learning ... Django , SQl , Restframework
+- 🌱 I’m currently learning ... Django , SQl , Rest FrameWork
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...  -->
