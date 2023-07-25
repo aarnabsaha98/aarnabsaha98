@@ -5,7 +5,8 @@
 
 
 - 🔭 I’m Interested in ... Javascript, Typescript, Python, HTML, CSS, Salesforce, Machine Learning
-- 🌱 I’m currently learning ... Node.js, Angular 
+- 🌱 I’m currently learning ... Angular, React.
+- I am confused between React and Angular
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...  -->
